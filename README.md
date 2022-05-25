@@ -1,2 +1,2 @@
-# PopUpCode
-Simple But Beautiful Popup Code
+# PopUp 
+Simple But Beautiful Popup CSS JS & HTML Code
