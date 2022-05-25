@@ -1,2 +1,2 @@
 # PopUp 
-Simple But Beautiful Popup CSS JS & HTML Code
+Simple But Beautiful & Reactive Popup CSS JS & HTML Code
